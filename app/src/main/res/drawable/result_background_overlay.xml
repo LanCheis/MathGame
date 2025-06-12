@@ -2,7 +2,7 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <bitmap android:src="@drawable/result_background"
-            android:gravity="center_crop" />
+            android:gravity="fill" />
     </item>
     <item>
         <shape android:shape="rectangle">
