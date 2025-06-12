@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors -->
+    <color name="background_dark">#000000</color>
+    <color name="particle_overlay">#1A000000</color>
+
+    <!-- Input Colors -->
+    <color name="input_label_color">#CCFFFFFF</color>
+    <color name="input_background">#1A333333</color>
+    <color name="input_border">#333333</color>
+    <color name="hint_color">#66FFFFFF</color>
+
+    <!-- Button Colors -->
+    <color name="button_purple">#6A4C93</color>
+    <color name="button_purple_pressed">#5A3C83</color>
+
+    <!-- FAB Colors -->
+    <color name="fab_background">#22FFFFFF</color>
+    <color name="fab_icon_tint">#CCFFFFFF</color>
+
+    <!-- Particle Effect Colors -->
+    <color name="particle_pink">#FF6B9D</color>
+    <color name="particle_orange">#FFB347</color>
+    <color name="particle_green">#4ECDC4</color>
+    <color name="particle_blue">#45B7D1</color>
+    <color name="particle_yellow">#FFF176</color>
+
+    <!-- Text Colors -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_white_secondary">#CCFFFFFF</color>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base dark background -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/background_dark" />
+        </shape>
+    </item>
+
+    <!-- Particle effect overlay -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:type="radial"
+                android:centerX="0.3"
+                android:centerY="0.4"
+                android:gradientRadius="40%"
+                android:startColor="#22FF6B9D"
+                android:centerColor="#11FFB347"
+                android:endColor="#00000000" />
+        </shape>
+    </item>
+
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:type="radial"
+                android:centerX="0.7"
+                android:centerY="0.6"
+                android:gradientRadius="35%"
+                android:startColor="#224ECDC4"
+                android:centerColor="#1145B7D1"
+                android:endColor="#00000000" />
+        </shape>
+    </item>
+
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:type="radial"
+                android:centerX="0.1"
+                android:centerY="0.8"
+                android:gradientRadius="25%"
+                android:startColor="#22FFF176"
+                android:centerColor="#11FF6B9D"
+                android:endColor="#00000000" />
+        </shape>
+    </item>
+
+</layer-list>
